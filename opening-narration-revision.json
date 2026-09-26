@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-27",
+  "scope": "Affirmative opening narration",
+  "workshop": "Education Support Staff",
+  "voice": "Steve Hogan",
+  "sessions": [
+    {
+      "session": 1,
+      "slide": 1,
+      "segment_id": "s01_sl01_a",
+      "new_sentence": "We value students as they are and support their participation and belonging.",
+      "opening_start_seconds": 5,
+      "opening_end_seconds": 45.58802083333333,
+      "web": {
+        "url": "media/session-1.mp4?v=7eeb78447a3b",
+        "bytes": 40633437,
+        "sha256": "7eeb78447a3bd664217862ce86b26edbaed687a1f746cc25e5591c79dc910b33"
+      },
+      "download": {
+        "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--session-01.mp4",
+        "bytes": 134715609,
+        "sha256": "05a0e006dec563d0050e9b4becf29467f761a042268beb2f7c9250d72f104cb2"
+      },
+      "checks": {
+        "video_packets_and_timestamps_unchanged": true,
+        "audio_packets_and_timestamps_unchanged_outside_openings": true,
+        "duration_unchanged": true,
+        "chapters_unchanged": true,
+        "embedded_caption_text_matches": true,
+        "unwanted_wording_absent": true
+      }
+    }
+  ],
+  "combined_download": {
+    "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--full-workshop.mp4",
+    "bytes": 1223653794,
+    "sha256": "9eeb0b2ed9554dcacdb1a49fe3ea1fb33a9c35adcecefbd9c71b174c1f038101"
+  },
+  "preservation": {
+    "all_video_packets_unchanged": true,
+    "all_audio_packets_unchanged_outside_openings": true,
+    "chapter_and_slide_timing_unchanged": true,
+    "positive_autistic_identity_replacement_preserved": true
+  },
+  "source_documents": "Original downloadable source documents remain unchanged."
+}
