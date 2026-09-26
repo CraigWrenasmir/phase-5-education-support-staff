@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-27",
+  "workshop": "Education Support Staff",
+  "session": 3,
+  "slide": 27,
+  "scope": "Positive Autistic Identity visual replacement",
+  "replacement": {
+    "url": "assets/positive-autistic-identity.png",
+    "bytes": 304191,
+    "sha256": "3a73eedf282834cef61ebd3fcc98605659132881ea94cc48a139757f1e319e58"
+  },
+  "source_documents": "Original downloadable source documents remain unchanged.",
+  "frame_rate": 25,
+  "session_interval": {
+    "start_frame": 62478,
+    "end_frame": 64763
+  },
+  "combined_interval": {
+    "start_frame": 134700,
+    "end_frame": 136985
+  },
+  "media": {
+    "session_download": {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--session-03.mp4",
+      "bytes": 375159586,
+      "sha256": "8262cfea7ca01d6a2f8af8dc01a7b10bea2dd4968a7f52fe1de8847bc17b94bb",
+      "previous": {
+        "bytes": 375829419,
+        "sha256": "5972b6329ea690b3a54eaf8d502f5b0ed216e39f890bb96f4c6c75795fcb01e1"
+      }
+    },
+    "combined_download": {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--full-workshop.mp4",
+      "bytes": 1223661186,
+      "sha256": "a9e810dddca8dea250dbe9d11239adfbd8b360ff572edb1397cdaa5a58441b62",
+      "previous": {
+        "bytes": 1224323763,
+        "sha256": "80a579583fdec1c8b1cb0c38c5a8b5f59f3b6cec7085afc71cbf6a60c933b293"
+      }
+    },
+    "web_playback": {
+      "url": "media/session-3.mp4?v=fcd1614349fc",
+      "bytes": 93399120,
+      "sha256": "fcd1614349fcb8ba7ba712aacdb4b0aa9551896fb4790eea82478fe8f44f2384",
+      "previous": {
+        "bytes": 93440300,
+        "sha256": "ae4d05ffcaa1872ea2acea23db5c04661b76cf755930ab6801be257f0ffdef0c"
+      }
+    }
+  },
+  "preservation_checks": {
+    "session_download": {
+      "frames": true,
+      "duration": true,
+      "chapters": true,
+      "audio_packets_and_timing": true
+    },
+    "combined_download": {
+      "frames": true,
+      "duration": true,
+      "chapters": true,
+      "audio_packets_and_timing": true
+    },
+    "web_playback": {
+      "frames": true,
+      "duration": true,
+      "chapters": true,
+      "audio_packets_and_timing": true
+    }
+  }
+}

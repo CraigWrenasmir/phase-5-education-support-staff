@@ -40,10 +40,10 @@
     {
       "session": 3,
       "url": "media/session-3.mp4",
-      "bytes": 93440300,
-      "sha256": "ae4d05ffcaa1872ea2acea23db5c04661b76cf755930ab6801be257f0ffdef0c",
+      "bytes": 93399120,
+      "sha256": "fcd1614349fcb8ba7ba712aacdb4b0aa9551896fb4790eea82478fe8f44f2384",
       "duration_seconds": 2590.528,
-      "source_sha256": "5972b6329ea690b3a54eaf8d502f5b0ed216e39f890bb96f4c6c75795fcb01e1",
+      "source_sha256": "8262cfea7ca01d6a2f8af8dc01a7b10bea2dd4968a7f52fe1de8847bc17b94bb",
       "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--session-03.mp4",
       "codec": "H.264 High",
       "resolution": [
