@@ -27,7 +27,6 @@ The simulation preserves the supplied workshop and identifies missing or unconfi
 - Session 4, slide 8: The workshop notes refer to printed option cards, but separate cards aren't included in these assets. See the session script for the context.
 - Session 4, slide 11: The image on this slide is still a placeholder. See the session script for the context.
 - Session 4, slide 12: The Visual Supports Checklist and an online webinar are referenced here for further learning, but their specific access details still need to be confirmed by the workshop team. The slide's image is also a placeholder. See the session script for the context.
-- Session 4, slide 14: The original slide retains a placeholder for material that is not supplied. See the session script for the context.
 - Session 4, slide 20: The image on this slide is still a placeholder, and it does not supply a finished set of links. See the session script for the context.
 - Session 6, slide 6: That video hasn't been supplied in this version of the workshop, so we'll move directly to the final reflection. See the session script for the context.
 - Session 6, slide 8: The particular webinar titles and dates, and the Community of Practice link, are still awaiting confirmation in these materials. See the session script for the context.

@@ -1,0 +1,220 @@
+{
+  "updated": "2026-09-27",
+  "scope": "Supplied slide visual replacements in session videos, complete workshop download and published slide PDFs. Audio, captions, timings and source editable decks are unchanged.",
+  "basis_commit": "d316606f9e8c947a0f42969e54e4ab5aea795dfd",
+  "replacements": [
+    {
+      "session": 3,
+      "slide": 27,
+      "title": "Positive Autistic Identity",
+      "requested_start": 2499,
+      "requested_end": 2590,
+      "start": 2499.12,
+      "end": 2590.52,
+      "png_sha256": "3a73eedf282834cef61ebd3fcc98605659132881ea94cc48a139757f1e319e58",
+      "chapter_title": "Positive Autistic Identity",
+      "site_image": "assets/slide-updates/session-3-slide-27.png",
+      "pdf": "Original Assets/PL Support Staff - Session 3 - Autistic Experience at School.pdf"
+    },
+    {
+      "session": 4,
+      "slide": 12,
+      "title": "Visual supports and social stories",
+      "requested_start": 763,
+      "requested_end": 900,
+      "start": 763.08,
+      "end": 900.76,
+      "png_sha256": "6d885b80b8cffe6702a6351f2884349931304ccb89249a059c88fcaf181716a4",
+      "chapter_title": "Visual supports and social stories",
+      "site_image": "assets/slide-updates/session-4-slide-12.png",
+      "pdf": "Original Assets/PL Support Staff - Session 4 - Learning Design.pdf"
+    },
+    {
+      "session": 4,
+      "slide": 14,
+      "title": "Universal Design for Learning",
+      "requested_start": 959,
+      "requested_end": 1014,
+      "start": 959.28,
+      "end": 1014.96,
+      "png_sha256": "24ccae0048cefce661b633b60ad99b4eee76f4f2d259464e1f1777eedeb654e9",
+      "chapter_title": "Universal Design for Learning",
+      "site_image": "assets/slide-updates/session-4-slide-14.png",
+      "pdf": "Original Assets/PL Support Staff - Session 4 - Learning Design.pdf"
+    },
+    {
+      "session": 4,
+      "slide": 20,
+      "title": "NCCD",
+      "requested_start": 1451,
+      "requested_end": 1507,
+      "start": 1451.28,
+      "end": 1507.52,
+      "png_sha256": "c2df5b9d7f9a9468fb317da2b9f64099b35ecd3fff8508bed3b4f890aabc8ca2",
+      "chapter_title": "NCCD",
+      "site_image": "assets/slide-updates/session-4-slide-20.png",
+      "pdf": "Original Assets/PL Support Staff - Session 4 - Learning Design.pdf"
+    },
+    {
+      "session": 5,
+      "slide": 17,
+      "title": "NCCD Meetings Tool Kit",
+      "requested_start": 1732,
+      "requested_end": 1806,
+      "start": 1732.64,
+      "end": 1806.52,
+      "png_sha256": "5e4bfd4cee5ad1a1e587c66d7d1aec55fad34ac7b8350458c53d2d7f0a66610a",
+      "chapter_title": "NCCD Meetings Tool Kit",
+      "site_image": "assets/slide-updates/session-5-slide-17.png",
+      "pdf": "Original Assets/PL Support Staff - Session 5 - Working in Partnership.pdf"
+    },
+    {
+      "session": 6,
+      "slide": 8,
+      "title": "Connections that continue",
+      "requested_start": 582,
+      "requested_end": 654,
+      "start": 582.96,
+      "end": 654.2,
+      "png_sha256": "cc8cd81779124a29e9523b0b58da33059d34ad31e346244cf601c85f4894b2e8",
+      "chapter_title": "Connections that continue",
+      "site_image": "assets/slide-updates/session-6-slide-8.png",
+      "pdf": "Original Assets/PL Support Staff - Session 6 - Flourishing and Full Circle.pdf"
+    },
+    {
+      "session": 6,
+      "slide": 10,
+      "title": "Feedback",
+      "requested_start": 679,
+      "requested_end": 736,
+      "start": 679.88,
+      "end": 736.72,
+      "png_sha256": "8e4878d3546daf9e88d1de419496aa54e9998cbf41fc99e67f858ad3eb026708",
+      "chapter_title": "Feedback",
+      "site_image": "assets/slide-updates/session-6-slide-10.png",
+      "pdf": "Original Assets/PL Support Staff - Session 6 - Flourishing and Full Circle.pdf"
+    }
+  ],
+  "files": {
+    "media/session-3.mp4": {
+      "bytes": 93395861,
+      "sha256": "d6b3945bd0c056df16776c4b3e17f9632df524b9f77f3b04fa9b992faa328bc3"
+    },
+    "Original Assets/PL Support Staff - Session 3 - Autistic Experience at School.pdf": {
+      "bytes": 8347245,
+      "sha256": "b710c188d3f85908e7911783d1e3be53a82d379cb51ac5cd67ade25ad7da13f8"
+    },
+    "assets/slide-updates/session-3-slide-27.png": {
+      "bytes": 304191,
+      "sha256": "3a73eedf282834cef61ebd3fcc98605659132881ea94cc48a139757f1e319e58"
+    },
+    "assets/positive-autistic-identity.png": {
+      "bytes": 304191,
+      "sha256": "3a73eedf282834cef61ebd3fcc98605659132881ea94cc48a139757f1e319e58"
+    },
+    "media/session-4.mp4": {
+      "bytes": 43295404,
+      "sha256": "e31ffea1ce7f07f90aaca187387bb2fdfef5a18c25bb3d1e75db9b7b9e80a39b"
+    },
+    "Original Assets/PL Support Staff - Session 4 - Learning Design.pdf": {
+      "bytes": 1864256,
+      "sha256": "f877ef4eff6d7cf0e895259c762fa3aec70873a18f8254c2bf98fa4b65a7736a"
+    },
+    "assets/slide-updates/session-4-slide-12.png": {
+      "bytes": 231879,
+      "sha256": "6d885b80b8cffe6702a6351f2884349931304ccb89249a059c88fcaf181716a4"
+    },
+    "assets/slide-updates/session-4-slide-14.png": {
+      "bytes": 201213,
+      "sha256": "24ccae0048cefce661b633b60ad99b4eee76f4f2d259464e1f1777eedeb654e9"
+    },
+    "assets/slide-updates/session-4-slide-20.png": {
+      "bytes": 109724,
+      "sha256": "c2df5b9d7f9a9468fb317da2b9f64099b35ecd3fff8508bed3b4f890aabc8ca2"
+    },
+    "media/session-5.mp4": {
+      "bytes": 55515704,
+      "sha256": "ab096ee9f692b8c4ae27361c73b070bc0e786675b4b069fd4d4287445b68e69b"
+    },
+    "Original Assets/PL Support Staff - Session 5 - Working in Partnership.pdf": {
+      "bytes": 3851059,
+      "sha256": "16a7afc19286794d31447993ef165573915a24fd38420667fe9880f1b232f1df"
+    },
+    "assets/slide-updates/session-5-slide-17.png": {
+      "bytes": 223999,
+      "sha256": "5e4bfd4cee5ad1a1e587c66d7d1aec55fad34ac7b8350458c53d2d7f0a66610a"
+    },
+    "media/session-6.mp4": {
+      "bytes": 19849557,
+      "sha256": "561a9e630a98c414f6de1c35a3a69a6080164e5832c82d59bce619161fb1c6bb"
+    },
+    "Original Assets/PL Support Staff - Session 6 - Flourishing and Full Circle.pdf": {
+      "bytes": 2045834,
+      "sha256": "f5209da0a3db1634f4913593b216ff7dc307cdaabfc9d0b31068976226185e56"
+    },
+    "assets/slide-updates/session-6-slide-8.png": {
+      "bytes": 112535,
+      "sha256": "cc8cd81779124a29e9523b0b58da33059d34ad31e346244cf601c85f4894b2e8"
+    },
+    "assets/slide-updates/session-6-slide-10.png": {
+      "bytes": 61725,
+      "sha256": "8e4878d3546daf9e88d1de419496aa54e9998cbf41fc99e67f858ad3eb026708"
+    },
+    "asset-manifest.json": {
+      "bytes": 25347,
+      "sha256": "c547714b42870baca5181608620e832482384d72660e12c1bde8afd693090c79"
+    },
+    "playback-manifest.json": {
+      "bytes": 3981,
+      "sha256": "f199948ba74ed5bab78ec57257dd0eaf54b1a51751824a76621e58b73a6b387a"
+    },
+    "index.html": {
+      "bytes": 380525,
+      "sha256": "2223b79b7ca4a8d3161341a7cefc2db64f88040ac841a1a7c98ab2a3cb759cb6"
+    },
+    "resources.html": {
+      "bytes": 28450,
+      "sha256": "1bca115caa0b3f91aaeb426caf5d2a1da50423690267ddb9adf8c6a608694d66"
+    },
+    "viewing-notes.html": {
+      "bytes": 18103,
+      "sha256": "146f1b1e2e850907848a73e77b0a13b0af7e61c067371eed4d4a723e3df5aa8d"
+    },
+    "Viewing notes.md": {
+      "bytes": 3390,
+      "sha256": "8ffc3f298e359ee79b00856eefb44ff9d1476c49def6ab6018cb5bc519831f54"
+    }
+  },
+  "downloads": [
+    {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--session-03.mp4",
+      "sha256": "856d466d99c58b1c73f2b39a6d20e723f76b33cc2cb2515c0f974ef3e99c5858",
+      "bytes": 375159606,
+      "previous_sha256": "8262cfea7ca01d6a2f8af8dc01a7b10bea2dd4968a7f52fe1de8847bc17b94bb"
+    },
+    {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--session-04.mp4",
+      "sha256": "3cfad081da0f1bb3e211efc6ee5e01aec8c220ea62dabf73df5d5d908553e767",
+      "bytes": 124031756,
+      "previous_sha256": "9d3ee7f97d78a15c451210fef9c8c8b3687316fb0a37cad7d67c77472986902a"
+    },
+    {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--session-05.mp4",
+      "sha256": "b7ad72900ced7f2c206b635620eb0cf4c85c24240140521df3c78128b347d394",
+      "bytes": 171141146,
+      "previous_sha256": "dd4dcac23b8fbb4fd44126cb33997d513c79e28a2a9e19e846ad4359244fddb7"
+    },
+    {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--session-06.mp4",
+      "sha256": "81804f2935311069eceb210ab52cc921201fcc95ae29777c7cb231a9ddc40d10",
+      "bytes": 59410063,
+      "previous_sha256": "eb9d9da929c8a1fa07f43d9610f4bc27b3dd4578b05c06b36607767585e3dced"
+    },
+    {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--full-workshop.mp4",
+      "sha256": "93145bffe3a8da564d41916b4f227cd38e6339bd03fea1de42a1ffe2bca44fc5",
+      "bytes": 1227467310,
+      "previous_sha256": "7ca34097a9e00c7da1ec83ac1468939e02d00a945a9bca5cec7d5375a5db04e8"
+    }
+  ]
+}
