@@ -6,10 +6,10 @@
     {
       "session": 1,
       "url": "media/session-1.mp4",
-      "bytes": 41739699,
-      "sha256": "5890bba48595b8a5a7ee05e12b58ac01594244b93041d3c38ef0232db0df217c",
-      "duration_seconds": 1234.773,
-      "source_sha256": "423cd1048e2de27d9f7ae714bd3e275290d241b9c5c845331ed50bc6995b083a",
+      "bytes": 44531718,
+      "sha256": "3d5025c51a4c33a6abe80893f4faa0635a2eba21822ec0d3515785c28f54a1ae",
+      "duration_seconds": 1344.256,
+      "source_sha256": "8be4dcbd3027cc99e53e4f9a706c97ffc33e57b862d45e3754e78e552d2644cc",
       "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--session-01.mp4",
       "codec": "H.264 High",
       "resolution": [
@@ -105,5 +105,6 @@
       "audio": "AAC stereo 48 kHz",
       "faststart": true
     }
-  ]
+  ],
+  "current_revision": "dda-dse-session1-revision.json"
 }
