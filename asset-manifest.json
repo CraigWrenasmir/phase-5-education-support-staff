@@ -11,7 +11,7 @@
     {
       "number": 1,
       "title": "The Lens",
-      "duration": 1205.96,
+      "duration": 1234.76,
       "slides": 17,
       "available": true
     },
@@ -52,11 +52,6 @@
     }
   ],
   "source_gaps": [
-    {
-      "session": 1,
-      "slide": 3,
-      "summary": "The approved statement has not been included in the supplied materials for this recording, so its wording still needs to be added here."
-    },
     {
       "session": 2,
       "slide": 17,
@@ -304,8 +299,8 @@
       "filename": "session-1.json",
       "category": "Scripts",
       "format": "json",
-      "bytes": 31239,
-      "sha256": "96505f15d66eff20812e839061b51ce5422d156ee84ddb7a1c2977d7087ad7c0",
+      "bytes": 31582,
+      "sha256": "18b731b3b2885418222c8cfe0219657587ae61122c8a56b2c6a1c27421edbfd8",
       "storage": "pages",
       "url": "Scripts/session-1.json"
     },
@@ -314,8 +309,8 @@
       "filename": "session-1.md",
       "category": "Scripts",
       "format": "md",
-      "bytes": 24540,
-      "sha256": "793db1c91c19c0dcd49499665d823326c3aa8c47c9785c2b0a94079ca967a06e",
+      "bytes": 24867,
+      "sha256": "3d11b06ad5717d40705c496cac2f1d9f738ea5990736c0fa5235752f88e5ceca",
       "storage": "pages",
       "url": "Scripts/session-1.md"
     },
@@ -324,8 +319,8 @@
       "filename": "Session 1 - The Lens.mp4",
       "category": "Videos",
       "format": "mp4",
-      "bytes": 134715609,
-      "sha256": "05a0e006dec563d0050e9b4becf29467f761a042268beb2f7c9250d72f104cb2",
+      "bytes": 139495003,
+      "sha256": "423cd1048e2de27d9f7ae714bd3e275290d241b9c5c845331ed50bc6995b083a",
       "storage": "release",
       "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--session-01.mp4"
     },
@@ -334,8 +329,8 @@
       "filename": "Session 1 - The Lens.vtt",
       "category": "Captions",
       "format": "vtt",
-      "bytes": 23663,
-      "sha256": "f1ab6efc3b0ac38e0da87c5befc5a0c789f03b72a2ef86ae542ebdc499ccd160",
+      "bytes": 23554,
+      "sha256": "35b12ec6f3a26fa5bae55713e2f8864ec61c79d200dce1eb8849bb0848c75968",
       "storage": "pages",
       "url": "Captions/Session 1 - The Lens.vtt"
     },
@@ -344,8 +339,8 @@
       "filename": "Session 1 - The Lens.srt",
       "category": "Captions",
       "format": "srt",
-      "bytes": 23655,
-      "sha256": "f41dab2f77fd565fd7f48dea86a4b87c04584b43f53796c972c7a0d23db603bb",
+      "bytes": 24370,
+      "sha256": "17413d287ab73d12b412419b4cbcf01febab515c55e0711a9ebaa8af1cafea6a",
       "storage": "pages",
       "url": "Captions/Session 1 - The Lens.srt"
     },
@@ -604,8 +599,8 @@
       "filename": "Full Facilitation Script.md",
       "category": "Scripts",
       "format": "md",
-      "bytes": 194488,
-      "sha256": "81f4f4d7c39445238ac235d85dc177c4d0c12a9d79a325878fa92e3b3257f0b3",
+      "bytes": 194815,
+      "sha256": "54c3cd0581efc332f4faa71b08c8e58b1de14595cf2fcda2f745bc07a673cd4b",
       "storage": "pages",
       "url": "Scripts/Full Facilitation Script.md"
     },
@@ -614,8 +609,8 @@
       "filename": "Full Workshop.mp4",
       "category": "Videos",
       "format": "mp4",
-      "bytes": 1223653794,
-      "sha256": "9eeb0b2ed9554dcacdb1a49fe3ea1fb33a9c35adcecefbd9c71b174c1f038101",
+      "bytes": 1228433204,
+      "sha256": "7ca34097a9e00c7da1ec83ac1468939e02d00a945a9bca5cec7d5375a5db04e8",
       "storage": "release",
       "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/support-staff--full-workshop.mp4"
     },
@@ -624,8 +619,8 @@
       "filename": "Full Workshop.vtt",
       "category": "Captions",
       "format": "vtt",
-      "bytes": 194763,
-      "sha256": "3206a280159845c892d40097366f4b52019815be5cbbe1c95d8e8b24bfd50c1a",
+      "bytes": 187638,
+      "sha256": "33ccd94638cf6c57b87f0fd6d98cf9eae1866ecbfa100afb061687eeb620b506",
       "storage": "pages",
       "url": "Captions/Full Workshop.vtt"
     },
@@ -634,8 +629,8 @@
       "filename": "Full Workshop.srt",
       "category": "Captions",
       "format": "srt",
-      "bytes": 194755,
-      "sha256": "e56bd0c61a06fb1989a2fe370415a76587f6f8282eee1e92d916bc4028e42043",
+      "bytes": 195478,
+      "sha256": "0b422d3a75a809713977064c4b3451bbfcd1ae1dacda5df6cca8c0386df4fb52",
       "storage": "pages",
       "url": "Captions/Full Workshop.srt"
     },
